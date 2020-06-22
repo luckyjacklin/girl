@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Girl</string>
+
+    <string name="something_wrong">Something goes wrong.</string>
+
+    <string name="date_time_formatter">yyyy/MM/dd hh:mm:ss</string>
+
 </resources>
